@@ -1,4 +1,4 @@
-## Python basic practice
+## Python basic practice!
 
 ```python
 x = int(input("x좌표를 입력하세요:"))
